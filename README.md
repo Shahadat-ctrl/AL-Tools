@@ -1,7 +1,7 @@
-Author: 4lbH4cker
+Author: 2007Shahadat
 ### Version 4
 
-(![image](https://raw.githubusercontent.com/4lbH4cker/ALHacking/main/alhacking.png)
+(![image](https://raw.githubusercontent.com/[Shahadat-ctrl/AL-Tools/main/alhacking.png])
 
 # Hacking Tools
 Tools to help you with ethical hacking, Social media hack, phone info, Gmail attack, phone number attack, user discovery, Webcam Hack
@@ -20,7 +20,7 @@ works on any of the following operating systems:
 
 # How to Install
 * Open the terminal and type `<pkg install git>`
-* Then`<git clone https://github.com/4lbH4cker/ALHacking>`
+* Then`<git clone [https://github.com/Shahadat-ctrl/AL-Tools]>`
 * `<cd ALHacking>`
 * `<bash alhack.sh>`
 
@@ -30,5 +30,4 @@ works on any of the following operating systems:
 We are not responsible for any misuse or damage caused by this program. Use this tool at your own risk!
 
 
-❤️ Support me:
-https://www.paypal.me/Relvllahi
+
